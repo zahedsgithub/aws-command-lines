@@ -1,1 +1,2 @@
 $ sudo apt update
+$ sudo apt insatall apache 2 -y
